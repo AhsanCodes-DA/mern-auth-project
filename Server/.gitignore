@@ -1,0 +1,9 @@
+Server/node_modules
+
+
+# private .env file
+node_modules/
+Server/.env
+.DS_Store
+/dist
+/build
