@@ -36,7 +36,6 @@ Ideal for production-level MERN projects or as a starter template for secure web
 
 ## 🚀 Run Locally
 
-```bash
 # Clone the repo
 git clone https://github.com/AhsanCodes-DA/mern-auth-project.git
 
@@ -45,7 +44,7 @@ cd Server
 npm install
 npm start
 
-# Frontend setup
+## Frontend setup
 cd ../Client
 npm install
 npm run dev
@@ -61,7 +60,6 @@ Frontend-backend integration in MERN
 Building secure REST APIs
 
 Styling with Tailwind for professional UI
-
 
 
 👨‍💻 Author
