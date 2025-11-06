@@ -40,13 +40,17 @@ Ideal for production-level MERN projects or as a starter template for secure web
 git clone https://github.com/AhsanCodes-DA/mern-auth-project.git
 
 # Backend setup
-cd Server
-npm install
+cd Server,
+
+npm install,
+
 npm start
 
 ## Frontend setup
-cd ../Client
-npm install
+cd ../Client,
+
+npm install,
+
 npm run dev
 
 🧠 Learning Outcomes
